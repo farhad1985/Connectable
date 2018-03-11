@@ -18,4 +18,4 @@ extension Connectable where Self: UIView {
 }
 ```
 
-you must this protocol inherit to every UIView.
+you must use this protocol inherit to every UIView.
