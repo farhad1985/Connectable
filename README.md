@@ -1,6 +1,6 @@
 # Connectable
 
-I write a protocol for connect a uiview to xib file .
+I write a protocol for connect an uiview to xib file .
 
 ```
 import UIKit
